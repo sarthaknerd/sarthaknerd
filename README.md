@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning DS & Algorithm 
 
-- 👯 I’m looking to collaborate on Projecs and Hackathons⚡
+- 👯 I’m looking to collaborate on Projects and Hackathons⚡
 
 - 🤔 I’m looking for help with Frontend/UI/UX
 
