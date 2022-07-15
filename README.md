@@ -1,7 +1,7 @@
 ### Hi there ⚡⚡⚡⚡
 
 
-- 🔭 I’m currently working ass FULL STACK DEVELOPER INTERN @VIEH GROUP
+- 🔭 I’m currently working as FULL STACK DEVELOPER INTERN @VIEH GROUP
 
 - 🧏 Languages : JAVA ✨PYTHON  ✨ SQL
 
