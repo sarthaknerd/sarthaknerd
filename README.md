@@ -2,7 +2,7 @@
 
 
 
-- 🧏 Languages : JAVA ✨PYTHON  ✨ SQL
+- 🧏 Android Developer 
 
 - 🌱 I’m currently learning DS & Algorithm 
 
