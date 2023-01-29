@@ -10,12 +10,7 @@
 
 - 🤔 I’m looking for help with Frontend/UI/UX
 
-- 📫 Reach me on [TWITTER](https://twitter.com/SARTHAKNERD)
-
--  CP PROFILES :
-[HACKERRANK](https://www.hackerrank.com/sarthaknerd) ✨
-[LEETCODE](https://leetcode.com/sarthakwithranjan/) ✨
- 
+- 📫 Reach me on [TWITTER](https://twitter.com/SARTHAKNERD) 
 - 😄 Pronouns: HE/HIM 
 
 - ⚡ Fun fact: I Rather be having CHAI☕ && sending MEMES 
