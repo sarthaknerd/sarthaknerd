@@ -3,6 +3,7 @@
 
 
 - 🧏 Android Developer 
+- 🧏 MENTEE @J.Winter OF CODE and winter of Blockchain
 
 - 🌱 I’m currently learning DS & Algorithm 
 
