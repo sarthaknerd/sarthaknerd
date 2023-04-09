@@ -1,12 +1,16 @@
 ### Hi there ⚡⚡⚡⚡
 
-
-
+BLOGS @ sarthaknerd.medium.com
+#100daysofcode
 - 🧏 Android Developer 
 - 🧏 MENTEE @J.Winter OF CODE and Winter of Blockchain
 -  🏅Contribuitor Socail Summer of code 
 - 🎻 Hacktober TOP 40k
 -  🎯Hackersquad Top 200
+-  INVENTOR | RESEARCHER | HACKATHON WINNER
+-  HACKATHONS : SMART INDIA HACKATHON 22 | 4TH AND 5TH TECHNOVATION HACKATHONS | MP POLICE HACKATHON
+-  1 PATENT PUBLISHED AND 2 PENDING
+-  LEETCODE 2 ⭐⭐ 
 
 - 🌱 I’m currently learning DS & Algorithm 
 
