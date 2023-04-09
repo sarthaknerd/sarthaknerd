@@ -4,6 +4,9 @@
 
 - 🧏 Android Developer 
 - 🧏 MENTEE @J.Winter OF CODE and Winter of Blockchain
+-  Contribuitor Socail Summer of code 
+-  Hacktober TOP 40k
+-  Hackersquad Top 200
 
 - 🌱 I’m currently learning DS & Algorithm 
 
