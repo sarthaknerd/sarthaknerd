@@ -2,9 +2,8 @@
 
 BLOGS @ sarthaknerd.medium.com
 #100daysofcode
-- 🧏 Android Developer 
 - 🧏 MENTEE @J.Winter OF CODE and Winter of Blockchain
--  🏅Contribuitor Socail Summer of code 
+-  🏅Contribuitor Socail Summer of code season 2
 - 🎻 Hacktober TOP 40k
 -  🎯Hackersquad Top 200
 -  INVENTOR | RESEARCHER | HACKATHON WINNER
