@@ -3,7 +3,7 @@
 BLOGS @ sarthaknerd.medium.com
 #100daysofcode
 - 🧏 MENTEE @J.Winter OF CODE and Winter of Blockchain
--  🏅Contribuitor Socail Summer of code season 2
+-  🏅Contribuitor Socail Summer of code season 2 | GSSOC 23 | TIME CHAIN SUMMER OF CODE
 - 🎻 Hacktober TOP 40k
 -  🎯Hackersquad Top 200
 -  INVENTOR | RESEARCHER | HACKATHON WINNER
