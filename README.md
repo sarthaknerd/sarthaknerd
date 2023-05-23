@@ -9,7 +9,7 @@ BLOGS @ sarthaknerd.medium.com
 -  INVENTOR | RESEARCHER | HACKATHON WINNER
 -  HACKATHONS : SMART INDIA HACKATHON 22 | 4TH AND 5TH TECHNOVATION HACKATHONS | MP POLICE HACKATHON
 -  1 PATENT PUBLISHED AND 2 PENDING
--  LEETCODE 2 ⭐⭐ 
+-   2 ⭐⭐ [LEETCODE] (https://leetcode.com/Sarthaknerd/)
 
 - 🌱 I’m currently learning DS & Algorithm 
 
