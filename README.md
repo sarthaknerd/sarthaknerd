@@ -17,7 +17,7 @@ BLOGS @ sarthaknerd.medium.com
 
 - 🤔 I’m looking for help with Frontend/UI/UX
 
-- 📫 Reach me on [TWITTER](https://twitter.com/SARTHAKNERD) 
+- 📫 Reach me on [TWITTER](https://twitter.com/SARTHAKNERD) | [LINKEDIN](https://www.linkedin.com/in/sarthakranjan/)
 - 😄 Pronouns: HE/HIM 
 
 - ⚡ Fun fact: I Rather be having CHAI☕ && sending MEMES 
